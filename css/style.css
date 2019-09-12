@@ -366,11 +366,12 @@ p {
   }
   
   .container {
-    padding: 33px 58px 0px;
+    padding: 35px 50px 0px;
   }
   
   h1 {
     font-size: 64px;
+    line-height: 78px;
     text-indent: -15%;
     padding-left: 15%;
   }
@@ -381,19 +382,19 @@ p {
   }
   
   .welcome-title {
-    padding: 180px 0 300px;
+    padding: 160px 0 298px;
 }
   
   .apps-download {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 90px;
+    padding-bottom: 76px;
   }
   
   .app-download { 
     justify-content: center;
     width: 48%;
-    height: 80px;
+    height: 78px;
     box-shadow: 0 16px 24px #0a0e34;
 }
 
@@ -414,7 +415,7 @@ p {
   }
   
   .block-text-1 {
-    padding-left: 40%;
+    padding-left: 38%;
   }
   
   .block-text-2 {
@@ -449,7 +450,7 @@ p {
   }
   
   .heading {
-    margin-bottom: 33px;
+    margin-bottom: 25px;
   }
   
   h3 {
@@ -475,31 +476,29 @@ p {
   p {
     font-size: 16px;
     line-height: 28px;
-    padding-bottom: 36px;
   }
 
   .p-white {
     font-size: 16px;
     line-height: 28px;
-    padding-bottom: 36px;
   }
   
   .gray-bc {
     background-color: #fff;
-    padding: 60px 20px 0 0;
+    padding: 60px 20px 33px 0;
     margin-top: 0px;
   }
 
   .middle-bc {
-    padding: 40px 20px 0 0;
+    padding: 40px 20px 33px 0;
   }
 
   .violet-bc {
-    padding: 40px 20px 0 0;
+    padding: 40px 20px 33px 0;
   }
 
   .blue-bc {
-    padding: 40px 20px 0 0;
+    padding: 40px 20px 33px 0;
   }  
   
   .number-violet {
