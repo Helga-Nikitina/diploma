@@ -166,21 +166,18 @@ p {
 
 .gray-bc {
   background-color: #fafafa;
-  padding: 70px 12px 0;
-  margin-top: 244px;
-  padding-bottom: 50px;
+  padding: 80px 12px 53px;
+  margin-top: 233px;
 }
 
 .middle-bc {
   background-color: #f5f4f9;
-  padding: 58px 12px 0;
-  padding-bottom: 50px;
+  padding: 58px 12px 72px;
 }
 
 .violet-bc {
   background-color: #5e3db3;
-  padding: 60px 20px 0;
-  padding-bottom: 50px;
+  padding: 60px 12px 54px;
 }
 
 .number-black {
@@ -199,7 +196,6 @@ p {
   line-height: 18px;
   color: #fff;
   text-align: left;
-  padding-bottom: 50px;
 }
 
 .blue-bc {
