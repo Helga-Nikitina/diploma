@@ -420,7 +420,7 @@ p {
   
   .block-text-2 {
     width: 60%;
-    padding-left: 30px;
+    padding-left: 24px;
   }
   
   h2 {
@@ -435,8 +435,8 @@ p {
     width: 497px;
     height: 699px;
     position: absolute;
-    margin-top: 10px;
-    right: 55%;
+    margin-top: -51px;
+    right: 56%;
   }
 
   .players-img{
@@ -476,11 +476,13 @@ p {
   p {
     font-size: 16px;
     line-height: 28px;
+    letter-spacing: 1.4px;
   }
 
   .p-white {
     font-size: 16px;
     line-height: 28px;
+    letter-spacing: 1.4px;
   }
   
   .gray-bc {
@@ -498,7 +500,7 @@ p {
   }
 
   .blue-bc {
-    padding: 40px 20px 33px 0;
+    padding: 40px 20px 39px 0;
   }  
   
   .number-violet {
@@ -529,8 +531,8 @@ p {
   .number-bc {
     width: 116px;
     height: 116px;
-    margin-top: -80px;
-    margin-left: 33px;
+    margin-top: -84px;
+    margin-left: 25px;
   }
 
   .number-white {
@@ -540,14 +542,14 @@ p {
   }
 
   .p-instr{
-    font-size: 16px;
+    font-size: 24px;
     line-height: 28px;
     padding-bottom: 36px;
-    padding-top: 37px;
+    padding-top: 54px;
   }
 
   .instr-text{
-    padding: 90px 33px 60px;
+    padding: 100px 25px 62px;
   }
   
   .footer {
@@ -555,7 +557,7 @@ p {
   }
 
   .about {
-    padding-bottom: 287px;
+    padding-bottom: 272px;
   }
   
   .icon-logo {
@@ -805,7 +807,7 @@ p {
   .download-text {
     font-size: 80px;
     line-height: 60px;
-    padding-bottom: 27px;
+    padding-bottom: 10px;
     text-align: left;
   }
 
