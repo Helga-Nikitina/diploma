@@ -48,7 +48,7 @@ html {
 .container {
   position: relative;
   z-index: 2;
-  padding: 33px 20px 0px;
+  padding: 30px 12px 0px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -64,7 +64,7 @@ html {
 }
 
 .welcome-title {
-  padding: 137px 0 90px;
+  padding: 122px 0 90px;
 }
 
 h1 {
@@ -80,7 +80,7 @@ h1 {
 }
 
 .apps-download {
-  padding-bottom: 82px;
+  padding-bottom: 70px;
 }
 
 .app-download {
@@ -128,12 +128,12 @@ h2 {
   line-height: 60px;
   color: #e7e7e7;
   text-align: left;
-  padding: 24px 20px 0;
+  padding: 12px 12px 0;
 }
 
 .heading {
   display: flex;
-  margin-bottom: 28px;
+  margin-bottom: 24px;
 }
 
 .number {
@@ -162,23 +162,25 @@ p {
   line-height: 18px;
   color: #000;
   text-align: left;
-  padding-bottom: 50px;
 }
 
 .gray-bc {
   background-color: #fafafa;
-  padding: 80px 20px 0;
+  padding: 70px 12px 0;
   margin-top: 244px;
+  padding-bottom: 50px;
 }
 
 .middle-bc {
   background-color: #f5f4f9;
-  padding: 60px 20px 0;
+  padding: 58px 12px 0;
+  padding-bottom: 50px;
 }
 
 .violet-bc {
   background-color: #5e3db3;
   padding: 60px 20px 0;
+  padding-bottom: 50px;
 }
 
 .number-black {
@@ -341,9 +343,9 @@ p {
     width: 210px;
     height: 281px;
     position: absolute;
-    margin-top: 18px;
+    margin-top: 9px;
     left: 50%;
-    margin-left: -105px;
+    margin-left: -90px;
   }
   
   .players-img{
