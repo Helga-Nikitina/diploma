@@ -133,7 +133,7 @@ h2 {
 
 .heading {
   display: flex;
-  margin-bottom: 24px;
+  margin-bottom: 22px;
 }
 
 .number {
@@ -200,7 +200,7 @@ p {
 
 .blue-bc {
   background-color: #090a36;
-  padding: 60px 20px 0;
+  padding: 53px 12px 53px;
 }
 
 .number-violet {
@@ -231,8 +231,8 @@ p {
   width: 70px;
   height: 70px;
   background-color: #5e42b0;
-  margin-top: -58px;
-  margin-left: 20px;
+  margin-top: -60px;
+  margin-left: 10px;
   text-align: center;
 }
 
@@ -255,7 +255,7 @@ p {
 }
 
 .instr-text{
-  padding: 37px 20px 27px;
+  padding: 27px 12px 82px;
 }
 
 .footer {
@@ -266,7 +266,7 @@ p {
   background-size: cover;
   background-color: #000000;
   
-  padding: 99px 20px 10px;
+  padding: 96px 12px 10px;
 }
 
 .footer::after {
@@ -287,7 +287,7 @@ p {
 }
 
 .about {
-  padding-bottom: 72px;
+  padding-bottom: 70px;
 }
 
 .icon-logo {
@@ -300,7 +300,7 @@ p {
   border-radius: 20px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 59px;
+  margin-bottom: 48px;
 }
 
 .surface-icon {
@@ -317,7 +317,7 @@ p {
   line-height: normal;
   color: #fff;
   text-align: center;
-  padding-bottom: 15px;
+  padding-bottom: 4px;
 }
 
 .description {
