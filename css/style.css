@@ -595,11 +595,12 @@ p {
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 45px;
+    padding-bottom: 95px;
   }
   
   h1 {
     font-size: 90px;
-    line-height: 100px;
+    line-height: 95px;
     text-indent: -25%;
     padding-left: 25%;
   }
@@ -610,13 +611,12 @@ p {
   }
   
   .welcome-title {
-    padding: 295px 0 222px;
+    padding: 272px 0 207px;
   }
   
   .apps-download {
     display: flex;
     justify-content: center;
-    padding-bottom: 110px;
   }
   
   .app-download { 
@@ -650,7 +650,7 @@ p {
   .block-text-1 {
     box-sizing: border-box;
     max-width: 1920px;
-    padding-left: 55%;
+    padding-left: 52%;
     padding-right: 10%;
     margin-left: auto;
     margin-right: auto;
@@ -677,8 +677,8 @@ p {
     width: 566px;
     height: 908px;
     position: absolute;
-    margin-top: -90px;
-    right: 55%;
+    margin-top: -150px;
+    right: 50%;
   }
  
   .heading {
@@ -708,31 +708,29 @@ p {
   p {
     font-size: 20px;
     line-height: 28px;
-    padding-bottom: 54px;
   }
 
   .p-white {
     font-size: 20px;
     line-height: 28px;
-    padding-bottom: 54px;
   }
   
   .gray-bc {
     background-color: #fff;
-    padding: 109px 0 0;
+    padding: 109px 0 54px;
     margin-top: 0px;
   }
 
   .middle-bc {
-    padding: 60px 0 0;
+    padding: 60px 0 54px;
   }
 
   .violet-bc {
-    padding: 60px 0 0;
+    padding: 60px 0 54px;
   }
 
   .blue-bc {
-    padding: 60px 0 0;
+    padding: 60px 0 54px;
   }
   
   .article {
