@@ -482,7 +482,7 @@ p {
   .p-white {
     font-size: 16px;
     line-height: 28px;
-    letter-spacing: 1.4px;
+    letter-spacing: 1px;
   }
   
   .gray-bc {
@@ -574,7 +574,7 @@ p {
   .download-text {
     font-size: 80px;
     line-height: 60px;
-    padding-bottom: 27px;
+    padding-bottom: 12px;
   }
 
   .description {
