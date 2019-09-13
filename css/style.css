@@ -48,7 +48,7 @@ html {
 .container {
   position: relative;
   z-index: 2;
-  padding: 30px 12px 70px;
+  padding: 30px 12px 0;
   margin-left: auto;
   margin-right: auto;
 }
@@ -90,6 +90,7 @@ h1 {
   background-color: #5e3db3;
   border-radius: 50vh;
   cursor: pointer;
+  padding-bottom: 70px;
   margin-bottom: 14px;
   text-decoration: none;
 }
@@ -569,7 +570,7 @@ p {
 
   .download-text {
     font-size: 80px;
-    line-height: 60px;
+    line-height: 82px;
     padding-bottom: 12px;
   }
 
