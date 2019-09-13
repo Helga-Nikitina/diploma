@@ -48,7 +48,7 @@ html {
 .container {
   position: relative;
   z-index: 2;
-  padding: 30px 12px 0px;
+  padding: 30px 12px 70px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -77,10 +77,6 @@ h1 {
   text-align: left;
   text-indent: -15%;
   padding-left: 15%;
-}
-
-.apps-download {
-  padding-bottom: 70px;
 }
 
 .app-download {
@@ -595,7 +591,7 @@ p {
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 45px;
-    padding-bottom: 95px;
+    padding-bottom: 25px;
   }
   
   h1 {
@@ -617,6 +613,7 @@ p {
   .apps-download {
     display: flex;
     justify-content: center;
+    padding-bottom: 70px;
   }
   
   .app-download { 
@@ -682,7 +679,7 @@ p {
   }
  
   .heading {
-    margin-bottom: 30px;
+    margin-bottom: 24px;
   }
   
   h3 {
@@ -717,12 +714,12 @@ p {
   
   .gray-bc {
     background-color: #fff;
-    padding: 109px 0 54px;
+    padding: 105px 0 54px;
     margin-top: 0px;
   }
 
   .middle-bc {
-    padding: 60px 0 54px;
+    padding: 56px 0 54px;
   }
 
   .violet-bc {
@@ -752,6 +749,10 @@ p {
     line-height: 30px;
   }
 
+  .instr-text {
+    padding: 86px 12px 82px;
+  }
+  
   .number-bc {
     width: 168px;
     height: 155px;
@@ -767,7 +768,7 @@ p {
   .p-instr {
     font-size: 24px;
     line-height: 28px;
-    padding-top: 75px;
+    padding-top: 85px;
     padding-right: 33px;
     max-width: 650px;
   }
@@ -819,7 +820,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 150px;
+    margin-bottom: 80px;
   }
 }
 
